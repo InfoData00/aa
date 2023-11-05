@@ -1,5 +1,8 @@
 Practical No 19
 19) Implement Map reduces operation with suitable example using MongoDB. 
+sudo systemctl start mongod
+password:
+mongod
 
 db.createCollection("Map")
 
